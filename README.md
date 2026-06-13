@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasos-perdidos-en-la-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pasos perdidos en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasos-perdidos-en-la-noche/) |
+| **Get License** | [Request Licensing for Pasos perdidos en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasos-perdidos-en-la-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes loco buscando tus pasos perdidos en la noche
+> Te quiero tener a mi lado, no hay nada que nos reproche
+> Tus ojos brillando en la disco, un fuego que no se esconde
+> Déjate llevar por el ritmo, mi nena, dime hacia dónde
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
