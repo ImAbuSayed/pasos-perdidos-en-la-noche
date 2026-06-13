@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes loco buscando tus pasos perdidos en la noche
+> Te quiero tener a mi lado, no hay nada que nos reproche
+> Tus ojos brillando en la disco, un fuego que no se esconde
+> Déjate llevar por el ritmo, mi nena, dime hacia dónde
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `157fd9d7a53aad6c0cc44795083dcdf674969b8ae69db01d781e07cb90056f4f` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

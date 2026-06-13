@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasos perdidos en la noche
+
+This log tracks the cryptographic history and versioning for the song **Pasos perdidos en la noche** (pasos-perdidos-en-la-noche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:26:36.387694 | `v1` | `157fd9d7a53aad6c0cc44795083dcdf674969b8ae69db01d781e07cb90056f4f` | `6313f1cb2a04aacb23ea552e0ba43e61693cba25eba1a903f1ed27441f0e2bd6` | `2026-06-14_pasos-perdidos-en-la-noche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
