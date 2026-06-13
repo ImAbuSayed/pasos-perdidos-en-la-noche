@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasos-perdidos-en-la-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pasos perdidos en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasos-perdidos-en-la-noche/) |
+| **Get License** | [Commercial Licensing for Pasos perdidos en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasos-perdidos-en-la-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3206)
 
 ---
 
